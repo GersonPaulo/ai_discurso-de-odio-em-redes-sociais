@@ -3,4 +3,4 @@ Nosso sistema propõe-se a identificar automaticamente mensagens que contenham d
 # Comando via input
 # path = caminho do dataset n amaquina local
 # eg: Bem-vindo ao sistema de deteção de discurso de ódio!
-Insira o caminho para o dataset (CSV): C:\Users\igorp\Downloads\codigo\hate_speech_dataset.csv 
+Insira o caminho para o dataset (CSV): C:\Users\local\Downloads\codigo\hate_speech_dataset.csv 
